@@ -1,0 +1,5 @@
+echo $((1 + RANDCOM % 50))
+echo $((1 + RANDCOM % 50))
+echo $((1 + RANDCOM % 50))
+echo $((1 + RANDCOM % 50))
+echo $((1 + RANDCOM % 50))
